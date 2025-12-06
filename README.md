@@ -79,6 +79,6 @@ I'm open to collaborating on:
 ## 📫 Contact
 
 * **GitHub:** *(your profile link)*
-* **Email:** *(optional to add)*
+* **Email:** *chandru.ganekal@gmail.com*
 
 Thanks for visiting my profile! 😊
