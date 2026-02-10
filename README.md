@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I have **14+ years of experience** building enterp
 ### **Backend Development**
 
 * **Java (8/11/17/21)**
-* **Spring Boot** (Web, Data, Security)
+* **Spring Boot** (Web, Data)
 * **REST API Design & Development**
 * **Groovy scripting**
 * **Microservices Architecture**
